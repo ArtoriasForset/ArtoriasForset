@@ -28,7 +28,7 @@
 主要开发：
 
 - WPF
-- WinForms
+- WorkerService
 - ASP.NET Core
 
 ---
