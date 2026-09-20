@@ -54,6 +54,7 @@
 
 目前使用：
 
+- SqlServer
 - PostgreSQL
 - SQLite
 
